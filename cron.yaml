@@ -1,0 +1,4 @@
+cron:
+  - url: /tasks/clear_sightings
+    schedule: every day 20:00
+    timezone: America/New_York
